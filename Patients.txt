@@ -1,0 +1,4 @@
+Burcu ALPER, 36, Female, 607870137, Shortness of Breath, Hakan KOCAK, 10/10/2018, null, (Inspection,100.0-Urine Analysis,50.0-Special Test,200.0-)
+Okyay SAY, 45, Male, 479741088, Brain Cancer, Serkan AKBULUT, 12/12/2018, null, (Inspection,100.0-)
+Hamdi YILDIRIM, 40, Male, 589556230, Hair Transplantation, Fikret SENGUL, 10/12/2017, 21/12/2017, (Inspection,100.0-)
+qaa bbb, 25, Male, 850872450, aa, Hakan KOCAK, 26/12/2018, null, (Inspection,100.0-Urine Analysis,50.0-Blood Analysis,75.0-)
